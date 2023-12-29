@@ -1,0 +1,56 @@
+.container {
+background-image: url("../../images/playstation-portable-accessory-pokedex-pokedex-0c1633a6bcad45b308c6281353ef7b6d.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+display: flex;
+flex-direction: column;
+align-items: center;
+height: 800px;
+width: 700px;
+align-items: center;
+justify-content: center;
+
+}
+
+.banner img {
+    height: 200px;
+    width: 200px;
+    margin:0 0 6rem 9rem;
+    background-color: transparent;
+ 
+}
+
+.infor {
+
+    height: 200px;
+    width: 200px;
+    margin:0 0 0 6rem;;
+    color: rgb(0, 0, 0);
+    padding: 4rem 0 0 2rem;
+    text-transform: uppercase;
+    text-shadow: 2px 2px #fff;
+   
+
+
+
+}
+
+button {
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    color: rgb(233, 195, 24);
+    margin: 0 0 1rem 0;
+    font-size: 1.5em;
+
+    background-color:rgb(36, 16, 216);
+    border: none;
+    margin: 0 12rem 1rem;
+   
+    
+    
+}
+h1{
+    margin: 0;
+  }
